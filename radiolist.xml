@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <RadioGet>
-	<radiotag tag="中央-2011/06/07更新">
-		<radio tag="中国之声" url="mms://211.89.225.144/cnr001" />
-		<radio tag="经济之声" url="mms://211.89.225.144/cnr002" />
-		<radio tag="音乐之声" url="mms://211.89.225.144/cnr003" />
-		<radio tag="都市之声" url="mms://211.89.225.144/cnr004" />
-		<radio tag="中华之声" url="mms://211.89.225.144/cnr005" />
-		<radio tag="神州之声" url="mms://211.89.225.144/cnr006" />
-		<radio tag="华夏之声" url="mms://211.89.225.144/cnr007" />
-		<radio tag="民族之声" url="mms://211.89.225.144/cnr008" />
-		<radio tag="文艺之声" url="mms://211.89.225.144/cnr009" />
+	<radiotag tag="中央-2011/09/15更新">
+		<radio tag="中国之声" url="mms://mms.cnr.cn/cnr001" />
+		<radio tag="经济之声" url="mms://mms.cnr.cn/cnr002" />
+		<radio tag="音乐之声" url="mms://mms.cnr.cn/cnr003" />
+		<radio tag="都市之声" url="mms://mms.cnr.cn/cnr004" />
+		<radio tag="中华之声" url="mms://mms.cnr.cn/cnr005" />
+		<radio tag="神州之声" url="mms://mms.cnr.cn/cnr006" />
+		<radio tag="华夏之声" url="mms://mms.cnr.cn/cnr007" />
+		<radio tag="民族之声" url="mms://mms.cnr.cn/cnr008" />
+		<radio tag="文艺之声" url="mms://mms.cnr.cn/cnr009" />
 		<radio tag="easyfm 91.5" url="mms://live.cri.cn/en4" />
 		<radio tag="easyfm 91.5镜像1" url="mms://livexwb.cri.com.cn/fm915" />
 		<radio tag="easyfm 91.5镜像2" url="mms://enmms.chinabroadcast.cn/fm91.5" />
