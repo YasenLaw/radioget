@@ -1,5 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <RadioGet>
+	<radiotag tag="北京(2012-8-12)">
+		<radio tag="青檬音乐台" url="mms://pub1.qmoon.net/911pop?cccode=cc1325" />
+		<radio tag="北京新闻广播" url="mms://alive.rbc.cn/fm1006" />
+		<radio tag="北京城市广播" url="mms://alive.rbc.cn/fm1073" />
+		<radio tag="北京故事广播" url="mms://alive.rbc.cn/am603" />
+		<radio tag="北京交通广播" url="mms://alive.rbc.cn/fm1039" />
+		<radio tag="北京体育广播" url="mms://alive.rbc.cn/fm1025" />
+		<radio tag="北京文艺广播" url="mms://alive.rbc.cn/fm876" />
+		<radio tag="北京音乐广播" url="mms://alive.rbc.cn/fm974" />
+		<radio tag="北京外语广播" url="mms://alive.rbc.cn/am774" />
+		<radio tag="北京爱家广播" url="mms://alive.rbc.cn/am927" />
+		<radio tag="北京古典音乐广播" url="mms://alive.rbc.cn/cfm986" />
+		<radio tag="北京通俗音乐广播" url="mms://alive.rbc.cn/cfm970" />
+		<radio tag="北京怀旧金曲广播" url="mms://alive.rbc.cn/cfm1075" />
+		<radio tag="北京教学广播" url="mms://alive.rbc.cn/cfm994" />
+		<radio tag="北京长书广播" url="mms://alive.rbc.cn/cfm1043" />
+		<radio tag="北京戏曲曲艺广播" url="mms://alive.rbc.cn/cfm1051" />
+		<radio tag="北京欢乐时光广播" url="mms://alive.rbc.cn/cfm1065" />
+		<radio tag="银河评书广播" url="mms://media.radio.cn/radio3" />
+		<radio tag="银河相声广播" url="mms://media.radio.cn/radio2" />
+	</radiotag>
+	<radiotag tag="天津(2012-8-12)">
+		<radio tag="天津新闻广播" url="mms://218.69.250.8/live1" />
+		<radio tag="天津音乐广播" url="mms://218.69.250.8/live2" />
+		<radio tag="天津经济广播" url="mms://218.69.250.8/live3" />
+		<radio tag="天津文艺广播" url="mms://218.69.250.8/live4" />
+		<radio tag="天津交通广播" url="mms://218.69.250.8/live5" />
+		<radio tag="天津生活广播" url="mms://218.69.250.8/live6" />
+		<radio tag="天津滨海广播" url="mms://218.69.250.8/live7" />
+		<radio tag="天津小说广播" url="mms://218.69.250.8/live8" />
+		<radio tag="天津相声广播" url="mms://218.69.250.8/live9" />
+		<radio tag="天津娱乐广播" url="mms://218.69.250.8/live10" />
+		<radio tag="天津区县联盟广播" url="mms://218.69.250.8/live11" />
+		<radio tag="天津戏曲广播" url="mms://218.69.250.8/live14" />
+		<radio tag="天津古典音乐广播" url="mms://218.69.250.8/live15" />
+		<radio tag="天津外语广播" url="mms://218.69.250.8/live16" />
+	</radiotag>
 	<radiotag tag="中央-2011/09/15更新">
 		<radio tag="中国之声" url="mms://mms.cnr.cn/cnr001" />
 		<radio tag="经济之声" url="mms://mms.cnr.cn/cnr002" />
@@ -21,27 +58,6 @@
 		<radio tag="写意民谣频道" url="mms://live.cri.cn/country/" />
 		<radio tag="OfficeRadio" url="mms://live.cri.cn/office" />
 	</radiotag>
-	<radiotag tag="北京">
-		<radio tag="青檬音乐台" url="mms://pub1.qmoon.net/911pop?cccode=cc1325" />
-		<radio tag="北京新闻广播" url="mms://alive.bjradio.com.cn/fm1006" />
-		<radio tag="北京首都生活" url="mms://alive.bjradio.com.cn/am603" />
-		<radio tag="北京城市管理" url="mms://alive.bjradio.com.cn/fm1073" />
-		<radio tag="北京交通广播" url="mms://alive.bjradio.com.cn/fm1039" />
-		<radio tag="北京文艺广播" url="mms://alive.bjradio.com.cn/fm876" />
-		<radio tag="北京体育广播" url="mms://alive.bjradio.com.cn/fm1025" />
-		<radio tag="北京音乐广播" url="mms://alive.bjradio.com.cn/fm974" />
-		<radio tag="北京古典音乐" url="mms://alive.bjradio.com.cn/cfm986" />
-		<radio tag="北京通俗音乐" url="mms://alive.bjradio.com.cn/cfm970" />
-		<radio tag="北京教学广播" url="mms://alive.bjradio.com.cn/cfm994" />
-		<radio tag="北京长书广播" url="mms://alive.bjradio.com.cn/cfm1043" />
-		<radio tag="北京外语广播" url="mms://alive.bjradio.com.cn/am774" />
-		<radio tag="北京戏曲曲艺" url="mms://alive.bjradio.com.cn/cfm1051" />
-		<radio tag="北京欢乐时光" url="mms://alive.bjradio.com.cn/cfm1065" />
-		<radio tag="北京怀旧金曲" url="mms://alive.bjradio.com.cn/cfm1075" />
-		<radio tag="北京爵士音乐" url="mms://alive.bjradio.com.cn/DAB" />
-		<radio tag="银河评书广播" url="mms://media.radio.cn/radio3" />
-		<radio tag="银河相声广播" url="mms://media.radio.cn/radio2" />
-	</radiotag>
 	<radiotag tag="上海">
 		<radio tag="上海上广新闻" url="mms://218.1.74.230/sgxw" />
 		<radio tag="上海东广新闻" url="mms://218.1.74.230/dgxw" />
@@ -52,17 +68,6 @@
 		<radio tag="上海都市792" url="mms://218.1.74.230/ds792" />
 		<radio tag="上海经典947" url="mms://218.1.74.230/jd947" />
 		<radio tag="上海戏剧调频" url="mms://218.1.74.230/sgxj" />
-	</radiotag>
-	<radiotag tag="天津">
-		<radio hidden="true" tag="天津新闻广播" url="mms://61.136.19.228/live1" />
-		<radio hidden="true" tag="天津音乐广播" url="mms://61.136.19.228/live2" />
-		<radio hidden="true" tag="天津经济广播" url="mms://61.136.19.228/live3" />
-		<radio hidden="true" tag="天津文艺广播" url="mms://61.136.19.228/live4" />
-		<radio hidden="true" tag="天津交通广播" url="mms://61.136.19.228/live5" />
-		<radio hidden="true" tag="天津生活广播" url="mms://61.136.19.228/live6" />
-		<radio hidden="true" tag="天津滨海广播" url="mms://61.136.19.228/live7" />
-		<radio hidden="true" tag="天津小说广播" url="mms://61.136.19.228/live8" />
-		<radio hidden="true" tag="天津娱乐广播" url="mms://61.136.19.228/live9" />
 	</radiotag>
 	<radiotag tag="江西省">
 		<radio tag="江西新闻综合" url="mms://movie.jxgdw.com/jswjxdt" />
