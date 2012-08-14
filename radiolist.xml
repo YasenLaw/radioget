@@ -1,5 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <RadioGet>
+	<radiotag tag="推荐">
+		<radio tag="环球资讯" url="mms://media.crinewsradio.cn/crinewsradio" />
+		<radio tag="中国之声" url="mms://mms.cnr.cn/cnr1?MTUjMCM" />
+		<radio tag="青檬音乐台" url="mms://pub1.qmoon.net/911pop?cccode=cc1325" />
+		<radio tag="北京音乐广播" url="mms://alive.rbc.cn/fm974" />
+		<radio tag="天津音乐广播" url="mms://218.69.250.8/live2" />
+	</radiotag>
+	<radiotag tag="中央人民广播电台(2012-08-14)">
+		<radio tag="中国之声" url="mms://mms.cnr.cn/cnr1?MTUjMCM" />
+		<radio tag="经济之声" url="mms://mms.cnr.cn/cnr002" />
+		<radio tag="音乐之声" url="mms://mms.cnr.cn/cnr003" />
+		<radio tag="都市之声" url="mms://mms.cnr.cn/cnr004" />
+		<radio tag="中华之声" url="mms://mms.cnr.cn/cnr005" />
+		<radio tag="神州之声" url="mms://mms.cnr.cn/cnr006" />
+		<radio hidden="true" tag="华夏之声" url="mms://mms.cnr.cn/cnr007?MTUjMCM" />
+		<radio tag="民族之声" url="mms://mms.cnr.cn/cnr008" />
+		<radio tag="文艺之声" url="mms://mms.cnr.cn/cnr009" />
+		<radio tag="easyfm 91.5" url="mms://live.cri.cn/en4" />
+		<radio tag="easyfm 91.5镜像1" url="mms://livexwb.cri.com.cn/fm915" />
+		<radio tag="easyfm 91.5镜像2" url="mms://enmms.chinabroadcast.cn/fm91.5" />
+	</radiotag>
+	<radiotag tag="中国国际广播电台">
+		<radio tag="环球资讯" url="mms://media.crinewsradio.cn/crinewsradio" />
+		<radio tag="都市流行频道" url="mms://live.cri.cn/pop/" />
+		<radio tag="怀旧金曲频道" url="mms://live.cri.cn/oldies/" />
+		<radio tag="写意民谣频道" url="mms://live.cri.cn/country/" />
+		<radio hidden="true" tag="OfficeRadio" url="mms://live.cri.cn/office" />
+	</radiotag>
 	<radiotag tag="北京(2012-8-12)">
 		<radio tag="青檬音乐台" url="mms://pub1.qmoon.net/911pop?cccode=cc1325" />
 		<radio tag="北京新闻广播" url="mms://alive.rbc.cn/fm1006" />
@@ -18,8 +46,6 @@
 		<radio tag="北京长书广播" url="mms://alive.rbc.cn/cfm1043" />
 		<radio tag="北京戏曲曲艺广播" url="mms://alive.rbc.cn/cfm1051" />
 		<radio tag="北京欢乐时光广播" url="mms://alive.rbc.cn/cfm1065" />
-		<radio tag="银河评书广播" url="mms://media.radio.cn/radio3" />
-		<radio tag="银河相声广播" url="mms://media.radio.cn/radio2" />
 	</radiotag>
 	<radiotag tag="天津(2012-8-12)">
 		<radio tag="天津新闻广播" url="mms://218.69.250.8/live1" />
@@ -37,26 +63,28 @@
 		<radio tag="天津古典音乐广播" url="mms://218.69.250.8/live15" />
 		<radio tag="天津外语广播" url="mms://218.69.250.8/live16" />
 	</radiotag>
-	<radiotag tag="中央-2011/09/15更新">
-		<radio tag="中国之声" url="mms://mms.cnr.cn/cnr001" />
-		<radio tag="经济之声" url="mms://mms.cnr.cn/cnr002" />
-		<radio tag="音乐之声" url="mms://mms.cnr.cn/cnr003" />
-		<radio tag="都市之声" url="mms://mms.cnr.cn/cnr004" />
-		<radio tag="中华之声" url="mms://mms.cnr.cn/cnr005" />
-		<radio tag="神州之声" url="mms://mms.cnr.cn/cnr006" />
-		<radio tag="华夏之声" url="mms://mms.cnr.cn/cnr007" />
-		<radio tag="民族之声" url="mms://mms.cnr.cn/cnr008" />
-		<radio tag="文艺之声" url="mms://mms.cnr.cn/cnr009" />
-		<radio tag="easyfm 91.5" url="mms://live.cri.cn/en4" />
-		<radio tag="easyfm 91.5镜像1" url="mms://livexwb.cri.com.cn/fm915" />
-		<radio tag="easyfm 91.5镜像2" url="mms://enmms.chinabroadcast.cn/fm91.5" />
-	</radiotag>
-	<radiotag tag="中国国际广播电台">
-		<radio tag="环球资讯" url="mms://media.crinewsradio.cn/crinewsradio" />
-		<radio tag="都市流行频道" url="mms://live.cri.cn/pop/" />
-		<radio tag="怀旧金曲频道" url="mms://live.cri.cn/oldies/" />
-		<radio tag="写意民谣频道" url="mms://live.cri.cn/country/" />
-		<radio tag="OfficeRadio" url="mms://live.cri.cn/office" />
+	<radiotag tag="网络电视(2012-08-14)">
+		<radio tag="厦门卫视" url="mms://mediasrv2.iptv.xmg.com.cn/tvhaixia" />
+		<radio tag="厦门新闻频道" url="mms://mediasrv2.iptv.xmg.com.cn/tvxinwen" />
+		<radio tag="厦门海峡频道" url="mms://mediasrv2.iptv.xmg.com.cn/tvjishi" />
+		<radio tag="厦门影视频道" url="mms://mediasrv2.iptv.xmg.com.cn/tvyingshi" />
+		<radio tag="第一视频1台" url="mms://live2.vodone.com/ch11" />
+		<radio tag="第一视频2台" url="mms://live2.vodone.com/ch12" />
+		<radio tag="第一视频3台" url="mms://live2.vodone.com/ch13" />
+		<radio tag="第一视频4台" url="mms://live2.vodone.com/ch14" />
+		<radio tag="第一视频5台" url="mms://live2.vodone.com/ch15" />
+		<radio tag="第一视频6台" url="mms://live2.vodone.com/ch16" />
+		<radio tag="第一视频7台" url="mms://live2.vodone.com/ch17" />
+		<radio tag="第一视频8台" url="mms://live2.vodone.com/ch18" />
+		<radio tag="第一视频9台" url="mms://live2.vodone.com/ch19" />
+		<radio tag="第一视频10台" url="mms://live2.vodone.com/ch10" />
+		<radio tag="温州新闻综合" url="mms://220.189.247.171/xwzh" />
+		<radio tag="温州经济科教" url="mms://220.189.247.171/jjkj" />
+		<radio tag="温州公共" url="mms://220.189.247.171/yswh" />
+		<radio tag="温州都市生活" url="mms://220.189.247.171/dssh" />
+		<radio tag="湖州新闻综合" url="mms://live.hugd.com/xwzh.wmv" />
+		<radio tag="湖州公共民生" url="mms://live.hugd.com/ggms.wmv" />
+		<radio tag="湖州文件娱乐" url="mms://live.hugd.com/whyl.wmv" />
 	</radiotag>
 	<radiotag tag="上海">
 		<radio tag="上海上广新闻" url="mms://218.1.74.230/sgxw" />
@@ -211,58 +239,6 @@
 		<radio tag="中广音乐电台" url="mms://chx1.ccdntech.com/wmtencoder/rti/cbs4.wmv" />
 		<radio tag="中广欧美电台" url="mms://chx1.ccdntech.com/wmtencoder/rti/cbs3.wmv" />
 		<radio tag="中广亚洲电台" url="mms://chx1.ccdntech.com/wmtencoder/rti/cbs5.wmv" />
-	</radiotag>
-	<radiotag tag="网络电视">
-		<radio hidden="true" tag="湖南卫视" url="mms://222.77.190.24:9090/hnws" />
-		<radio hidden="true" tag="云南卫视" url="mms://61.159.229.233/yntv-1.wmv" />
-		<radio hidden="true" tag="云南二台" url="mms://61.159.229.233/yntv-2.wmv" />
-		<radio hidden="true" tag="云南三台" url="mms://61.159.229.233/yntv-3.wmv" />
-		<radio tag="上海东方卫视" url="mms://live.smgbb.cn/dfws" />
-		<radio tag="上海东方电影" url="mms://live.smgbb.cn/dfdy" />
-		<radio tag="上海电视剧频道" url="mms://live.smgbb.cn/dsj" />
-		<radio tag="上海新闻综合" url="mms://live.smgbb.cn/xwzh" />
-		<radio tag="上海生活时尚" url="mms://live.smgbb.cn/shss" />
-		<radio tag="上海哈哈少儿" url="mms://live.smgbb.cn/dfchild" />
-		<radio tag="上海炫动卡通" url="mms://live.smgbb.cn/xdkt" />
-		<radio tag="河北卫视" url="mms://121.28.72.199/tv1" />
-		<radio tag="河北经济" url="mms://121.28.72.199/tv2" />
-		<radio tag="河北都市" url="mms://121.28.72.199/tv3" />
-		<radio tag="河北四台" url="mms://121.28.72.199/tv4" />
-		<radio tag="河北少儿" url="mms://121.28.72.199/tv5" />
-		<radio tag="河北公共" url="mms://121.28.72.199/tv6" />
-		<radio tag="河北农民" url="mms://121.28.72.199/tv7" />
-		<radio tag="黑龙江卫视" url="mms://221.212.177.20/vod" />
-		<radio tag="厦门卫视" url="mms://mediasrv2.iptv.xmg.com.cn/tvhaixia" />
-		<radio tag="厦门新闻频道" url="mms://mediasrv2.iptv.xmg.com.cn/tvxinwen" />
-		<radio tag="厦门海峡频道" url="mms://mediasrv2.iptv.xmg.com.cn/tvjishi" />
-		<radio tag="厦门影视频道" url="mms://mediasrv2.iptv.xmg.com.cn/tvyingshi" />
-		<radio tag="第一视频1台" url="mms://live2.vodone.com/ch11" />
-		<radio tag="第一视频2台" url="mms://live2.vodone.com/ch12" />
-		<radio tag="第一视频3台" url="mms://live2.vodone.com/ch13" />
-		<radio tag="第一视频4台" url="mms://live2.vodone.com/ch14" />
-		<radio tag="第一视频5台" url="mms://live2.vodone.com/ch15" />
-		<radio tag="第一视频6台" url="mms://live2.vodone.com/ch16" />
-		<radio tag="第一视频7台" url="mms://live2.vodone.com/ch17" />
-		<radio tag="第一视频8台" url="mms://live2.vodone.com/ch18" />
-		<radio tag="第一视频9台" url="mms://live2.vodone.com/ch19" />
-		<radio tag="第一视频10台" url="mms://live2.vodone.com/ch10" />
-		<radio tag="温州新闻综合" url="mms://220.189.247.171/xwzh" />
-		<radio tag="温州经济科教" url="mms://220.189.247.171/jjkj" />
-		<radio tag="温州公共" url="mms://220.189.247.171/yswh" />
-		<radio tag="温州都市生活" url="mms://220.189.247.171/dssh" />
-		<radio tag="湖州新闻综合" url="mms://live.hugd.com/xwzh.wmv" />
-		<radio tag="湖州公共民生" url="mms://live.hugd.com/ggms.wmv" />
-		<radio tag="湖州文件娱乐" url="mms://live.hugd.com/whyl.wmv" />
-		<radio hidden="true" tag="丽水新闻综合" url="mms://202.96.114.251/lstv" />
-		<radio tag="河南都市" url="mms://125.46.11.199:9002" />
-		<radio tag="河南民生" url="mms://125.46.11.200:9001" />
-		<radio tag="河南公共" url="mms://125.46.11.200:9002" />
-		<radio tag="河南法制" url="mms://125.46.11.197:9002" />
-		<radio tag="杭州房产" url="mms://218.75.38.173/test2" />
-		<radio hidden="true" tag="青岛1台" url="mms://movie.top86.com/qtv" />
-	</radiotag>
-	<radiotag tag="网络电视 - 国外">
-		<radio tag="Research Channel(美国)" url="mms://media-wm.cac.washington.edu/researchtv live (lan)" />
 	</radiotag>
 	<radiotag tag="自定义">
 	</radiotag>
