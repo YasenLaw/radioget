@@ -47,6 +47,26 @@
 		<radio tag="北京戏曲曲艺广播" url="mms://alive.rbc.cn/cfm1051" />
 		<radio tag="北京欢乐时光广播" url="mms://alive.rbc.cn/cfm1065" />
 	</radiotag>
+	<radiotag tag="陕西(2012-08-20)">
+		<radio tag="陕西新闻广播" url="mms://218.30.15.203/news" />
+		<radio tag="陕西交通广播" url="mms://218.30.15.203/traffic" />
+		<radio tag="陕西农村广播" url="mms://218.30.15.203/country" />
+		<radio tag="陕西经济广播" url="mms://218.30.15.203/encnomy" />
+		<radio tag="陕西都市广播" url="mms://218.30.15.203/city" />
+		<radio tag="陕西音乐广播" url="mms://218.30.15.203/music" />
+		<radio tag="陕西戏曲广播" url="mms://218.30.15.203/opera" />
+		<radio tag="陕西青春调频" url="mms://218.30.15.203/kids" />
+		<radio tag="陕西故事广播" url="mms://218.30.15.203/story" />
+		<radio tag="陕西秦腔广播" url="mms://218.30.15.203/cityopera" />
+		<radio tag="西安新闻广播" url="mms://113.140.13.204/xw" />
+		<radio tag="西安交通广播" url="mms://113.140.13.205/jiaotong" />
+		<radio tag="西安音乐广播" url="mms://113.140.13.205/radiomusic" />
+		<radio tag="西安资讯广播" url="mms://113.140.13.204/zx" />
+		<radio tag="西安综艺广播" url="mms://113.140.13.205/zongyi" />
+		<radio tag="安康交通广播" url="mms://221.11.107.242:1100" />
+		<radio tag="安康新闻广播" url="mms://221.11.107.243:1101" />
+		<radio tag="汉中音乐广播" url="mms://www.fm971.net/net971" />
+	</radiotag>
 	<radiotag tag="天津(2012-8-12)">
 		<radio tag="天津新闻广播" url="mms://218.69.250.8/live1" />
 		<radio tag="天津音乐广播" url="mms://218.69.250.8/live2" />
@@ -132,18 +152,6 @@
 		<radio tag="湖南金鹰955电台" url="mms://real.rednet.cn/955" />
 		<radio tag="长沙音乐频道" url="mms://real.rednet.cn/1061" />
 		<radio tag="株洲交通频道" url="mms://61.187.98.35:1368" />
-	</radiotag>
-	<radiotag tag="陕西">
-		<radio hidden="true" tag="陕西新闻广播" url="mms://218.30.15.177/news" />
-		<radio hidden="true" tag="陕西经济广播" url="mms://218.30.15.177/economy" />
-		<radio hidden="true" tag="陕西交通广播" url="mms://218.30.15.177/traffic" />
-		<radio hidden="true" tag="陕西农村广播" url="mms://218.30.15.177/country" />
-		<radio hidden="true" tag="陕西音乐广播" url="mms://218.30.15.177/music" />
-		<radio hidden="true" tag="陕西都市广播" url="mms://218.30.15.177/city" />
-		<radio hidden="true" tag="陕西戏曲广播" url="mms://218.30.15.177/opera" />
-		<radio hidden="true" tag="陕西故事广播" url="mms://218.30.15.177/story" />
-		<radio hidden="true" tag="陕西少儿广播" url="mms://218.30.15.177/kids" />
-		<radio hidden="true" tag="陕西秦腔广播" url="mms://218.30.15.177/cityopera" />
 	</radiotag>
 	<radiotag tag="福建">
 		<radio tag="厦门新闻频道" url="mms://mediasrv2.iptv.xmg.com.cn/xinwen" />
